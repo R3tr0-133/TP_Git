@@ -1,0 +1,30 @@
+C1/
+1. new repository
+2. mkdir 
+3. nano nom_fichier
+4. git init 
+5  git remote add origin https://github.com/utilisateur/...
+6. git config user.email "exemplemail@gmail.com"
+7. git config user.name "USER"
+8. git add nom_fichier
+9. git commit -m "first commit"
+10. git push -u origin git
+
+C2 :
+touch README.md 
+touch LICENCE.md 
+touch .gitignore
+
+git branch 
+
+git branch "nom de la branch "
+
+git checkout "nom de la branch"
+
+git push origin "nom de la branch"
+
+git merge origin "nom de la branch" 
+
+git clone "url de rp"
+
+git log = commits log  
