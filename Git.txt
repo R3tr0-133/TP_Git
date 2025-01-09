@@ -1,0 +1,40 @@
+Git - Cours 1
+
+1. Créer un repertoire sur GitHub		|	new repository
+2. Créer un dossier 					|	mkdir nom_dossier
+3. Créer un fichier text dans ce dossier 	|	nano nom_fichier
+4. Ajouter une branche					|	
+4. Initialiser le dossier 					|	git init 
+5. Ajouter l'origine de repertoire 			|	git remote add origin https://github.com/utilisateur/...
+6. Ajouter l'email de l'utilisateur 			|	git config user.email "exemplemail@gmail.com"
+7. Ajouter le nom de l'utilisateur 			|	git config user.name "nom_utilisateur"
+8. Ajouter le fichier au répertoire 		|	git add nom_fichier
+9. Premier commit 					|	git commit -m "first commit"
+10. Push 							|	git push -u origin "nom de la branche"
+									|	Password = Token
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Git - Cours 2
+
+1. Créer un fichier readme				|	touch README.md
+2. Créer un fichier licence				|	touch LICENCE.md
+3. Créer un fichier gitignore				|	touch .gitignore
+4. Pull un fichier sur le repository			|	git pull origin git
+
+1. Connaitre la branche sur laquelle nous sommes positionné	|	git branch
+2. Créer une nouvelle branche 								|	git branch "nom de la branche"
+3. Basculer sur une autre branche							|	git checkout "nom de la branche"
+4. #														|	git add "nom du fichier"
+5. #														|	git commit
+6. Aplliquer le changement de branch 						|	git push origin "nom de la branche"
+7. Fusion de plusieurs branche								|	git merge
+8. #														|	git push origin "nom de la branche"
+
+1. Partager un fichier 										|	git clone "url du repository à partager"
+2. Ajouter a la liste d'ajouter									|	git add "nom du dossier"
+3. Commit												|	git commit 
+4. Push 													|	git push
+
+1. Accéder aux logs (q pour quitter)							|	git log
+2. Retourner à une action passer 							|	git checkout 
