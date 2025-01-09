@@ -1,0 +1,29 @@
+mkdir TP_Git 
+cd TP_Git 
+git init 
+touch README.md LICENCE.md .gitignore 
+git add README.md LICENCE.md .gitignore
+git config user.name 'R3tr0-133'
+git config user.email 'nico91627@gmail.com'
+git remote add origin https://github.com/R3tr0-133/TP_Git
+git commit * .gitignore 
+git branch -M main 
+git push origin main 
+
+git branch nicolas
+
+git commit * 
+
+git push origin nicolas
+
+git checkout main 
+
+git pull main 
+
+git merge nicolas 
+
+git commit * 
+
+git push origin main 
+
+git status
