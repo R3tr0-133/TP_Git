@@ -1,0 +1,25 @@
+
+mkdir test
+nano test.txt	
+touch README.md
+touch LICENCE.md
+touch .gitignore
+
+git init 
+git remote add origin https://github.com/Cody91430/...
+git config user.email "menuhugo@orange.fr"
+git config user.name "Cody91430"
+
+git branch
+git branch "Hugo"
+git checkout "Hugo"
+
+git add test.txt README.md LICENCE.md .gitignore
+git commit -m "first commit"
+git push -u origin "Hugo"
+git pull origin Hugo
+
+git merge
+git clone "https://github.com/Cody91430/..."
+
+git log
