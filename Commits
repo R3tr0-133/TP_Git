@@ -1,0 +1,329 @@
+    1  IP Q 
+    2  ip a
+    3  git clone https://github.com/R3tr0-133/TP_Git.git~
+    4  ls
+    5  git clone https://github.com/R3tr0-133/TP_Git.git
+    6  ls
+    7  cd TP_Git/
+    8  LS
+    9  git branch Daoud 
+   10  ls
+   11  git branch 
+   12  git push origin Daoud
+   13  git checkout Daoud
+   14  git branch 
+   15  ls
+   16  git branch 
+   17  touch README.MD
+   18  touch LICENSE.md
+   19  touch .gitignore
+   20  git add README.MD LICENSE.md .gitignore 
+   21  git push origin Daoud 
+   22  git add README.MD 
+   23  git commit -m "readme"
+   24  git push origin Daoud 
+   25  ls 
+   26  ls
+   27  ip a
+   28  ls 
+   29  git branch
+   30  git pull origin git
+   31  gils
+   32  ls
+   33  git pull origin git
+   34  git branch 
+   35  git merge main 
+   36  git pull origin main
+   37  y
+   38  ls
+   39  git merge main
+   40  git pull origin main 
+   41  ls
+   42  gls
+   43  git branch 
+   44  ls
+   45  git add TP-Git4
+   46  ls
+   47  cd TP-Git/
+   48  ls
+   49  cat CSS/
+   50  CD CSS
+   51  cd Css
+   52  cd CSS
+   53  ls
+   54  cat style.css
+   55  cd
+   56  ls 
+   57  cd TP_Git
+   58  git branch 
+   59  git add TP_Git
+   60  ls
+   61  git add TP-Git
+   62  git commit -m "couleur"
+   63  git push origin Daoud 
+   64  git checkout main
+   65  git branch 
+   66  git merge Daoud 
+   67  git branch 
+   68  git checkout Daoud 
+   69  git merger main
+   70  git branch 
+   71  git merge main
+   72  git branch 
+   73  git checkout main
+   74  git branh 
+   75  git branch 
+   76  git merge Daoud 
+   77  ls
+   78  git add TP_Git4/
+   79  git commit -m ""
+   80  git commit -m "modif"
+   81  git push origin Daoud 
+   82  git add TP_Git4/
+   83  git commit -m "modif"
+   84  git branch "
+   85  git branch 
+   86  git pull origin main
+   87  ls
+   88  git checkout Daoud 
+   89  ls
+   90  git add TP_Git4/
+   91  git commit -m "2"
+   92  git push origin Daoud
+   93  git checkout 
+   94  git checkout main
+   95  git branch 
+   96  git merge Daoud 
+   97  git push origin main
+   98  ls
+   99  git rm -r TP_Git4
+  100  git rm -r TP_Git4/
+  101  git rm -r TP_Git4
+  102  ls
+  103  git branch 
+  104  git rm TP_GIT4
+  105  git rm TP_Git4/
+  106  TP_Git4
+  107  ls
+  108  cd TP_Git4/
+  109  LS
+  110  ls
+  111  cd TP-Git/
+  112  LS
+  113  ls
+  114  rm -r TP_Git4
+  115  cd
+  116  cd TP_Git
+  117  rm -r TP_Git4/
+  118  git add -A
+  119  git commit -m "rm"
+  120  git push origin main
+  121  $ls 
+  122  ls 
+  123  ls
+  124  git add TP_Git4/
+  125  git commit -m "add"
+  126  git push origin main
+  127  ls 
+  128  cd TP_Git4/
+  129  LS
+  130  ls
+  131  git add TP-Git/
+  132  git commit -m "ADD"
+  133  git push origin main
+  134  git push origin main7
+  135  git push origin main
+  136  cd
+  137  cd TP_Git
+  138  LS
+  139  ls
+  140  LS
+  141  ls
+  142  l 
+  143  ls 
+  144  git checkout Daoud 
+  145  ls
+  146  git branch 
+  147  git checkout main
+  148  git branch 
+  149  git checkout 
+  150  git checkout Daoud 
+  151  LS
+  152  ls
+  153  git branch 
+  154  git checkout main
+  155  git merge Daoud 
+  156  git pull origin main
+  157  git merge Daoud
+  158  git commit -m "Daoud" 
+  159  ls 
+  160  git commit -m "daoud" 
+  161  git commit -m "sup TPGIT4"
+  162  git commit -m "sup TPGIT4" TP_Git4
+  163  ls
+  164  git main
+  165  git branch 
+  166  git merge Daoud 
+  167  git push origin main
+  168  ls
+  169  git checkout Daoud 
+  170  git status
+  171  git commit CSS/style.css 
+  172  ls
+  173  cd TP_Git
+  174  cd TP-Git/
+  175  git commit CSS/style.css
+  176  git checkout main
+  177  git branch 
+  178  git merge Daoud 
+  179  git status
+  180  ls
+  181  ls 
+  182  cd 
+  183  cd TP_Git/
+  184  ls
+  185  git merge Daoud 
+  186  git branch 
+  187  git push origin Daoud 
+  188  ls 
+  189  git branch
+  190  git checkout Daoud
+  191  ls
+  192  rm -r TP_git4
+  193  rm -r TP_Git4
+  194  git commit -a
+  195  git commit -m "supp"
+  196  git push origin Daoud 
+  197  ls
+  198  git checkout main
+  199  git branch 
+  200  git merge Daoud 
+  201  git commit -m "couleur"
+  202  git push origin main
+  203  git branch
+  204  git checkout Daoud 
+  205  git brac
+  206  git branch 
+  207  ls
+  208  rm -r TP-Git
+  209  git commit -m "sup"
+  210  rm -r TP-GIT
+  211  git rm -r TP-Git 
+  212  git commit -m "sup
+  213  git commit -m "sup"
+  214  git push origin Daoud 
+  215  history 
+  216  ls 
+  217  git branch
+  218  ls 
+  219  ls
+  220  ls 
+  221  git add TP_Git
+  222  git commit -m "couleur"
+  223  git push origin Daoud 
+  224  ls 
+  225  git branch 
+  226  git rm -r TP_Git/
+  227  git rm -r TP_Git
+  228  git commit -m "sup"
+  229  git rm -r TP_Git
+  230  rm -r TP_GIT
+  231  LS 
+  232  ls
+  233  git commit -m "sup"
+  234  git push origin Daoud 
+  235  ls
+  236  git add TP-Git/
+  237  git commit -m "couleur "
+  238  git push origin Daoud 
+  239  git checkout main
+  240  git pull origin main
+  241  git merge Daoud 
+  242  git staus
+  243  git status 
+  244  git branch 
+  245  git commit *
+  246  git merge --quit
+  247  git commit *
+  248  git push origin main 
+  249  git merge Daoud 
+  250  git status 
+  251  git push origin main
+  252  git branch 
+  253  git checkout Daoud 
+  254  ls
+  255  cd TP-Git/
+  256  LS
+  257  ls
+  258  cat CSS
+  259  cd CSS
+  260  LS
+  261  ls
+  262  cat style.cs
+  263  cat style.css
+  264  cd..$
+  265  cd
+  266  cd TP_Git/
+  267  ls
+  268  git branch 
+  269  git pull origin main 
+  270  git status 
+  271  git push origin Daoud 
+  272  git checkout main 
+  273  git branch
+  274  git merge Daoud 
+  275  git commit -m "couleur "
+  276  git push  origin main
+  277  git 
+  278  l 
+  279  ls
+  280  cd TP-Git/
+  281  ls
+  282  CSS
+  283  cd CSS
+  284  ls
+  285  cat style.css 
+  286  git checkout main 
+  287  ls
+  288  cat style.css 
+  289  cd
+  290  cd TP_Git/
+  291  LS
+  292  ls
+  293  git branch 
+  294  git checkout Daoud 
+  295  ls
+  296  git branch 
+  297  cd TP-Git/
+  298  cd CSS
+  299  cat style.css
+  300  cd 
+  301  cd TP_Git/
+  302  LS
+  303  ls
+  304  git bracnch
+  305  git branch 
+  306  ls
+  307  CD TP-Git/
+  308  cd TP_G
+  309  cd TP-Git/
+  310  LS
+  311  ls
+  312  CD CSS
+  313  cd CSS 
+  314  LS
+  315  ls
+  316  cat style.css
+  317  ls
+  318  git branch 
+  319  git commit style.css
+  320  git push origin Daoud 
+  321  cd
+  322  cd TP_Git/
+  323  git branch 
+  324  git checkout main 
+  325  git branch 
+  326  git merge Daoud 
+  327  git commit -m "couleur" 
+  328  git push origin main 
+  329  history 
